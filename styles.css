@@ -5,7 +5,7 @@ body{
     padding: 0;
     box-sizing: border-box;
     font-family: 'Mooli', sans-serif;
-    background-image:url(images/fondo\ de\ pantalla.png);
+    background-image:url(images/acantilados\ codigo\ \(2\).png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -139,4 +139,5 @@ padding: 0;
         .project img {
             background-size: cover;
         }
+       
     }
